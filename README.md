@@ -3,7 +3,7 @@
 <div>
   - 💡 I'm  a web programming student who starts his journey with a lot of enthusiasm and focus!<br>
   - 🔭 I'm currently  on career transition<br>
-  - 💻 Student of the Cerfield Tech Developer course at the Digital House <br>
+  - 💻 Student of the Certified Tech Developer course at the Digital House <br>
   
 </div>
 <br>
