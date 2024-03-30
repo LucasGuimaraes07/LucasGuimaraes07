@@ -14,7 +14,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasguimaraes07&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
   
-## Technologies that I'm studying actually
+## Technologies that I'm currently studying
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Lucas-Py"  src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
